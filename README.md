@@ -73,12 +73,3 @@ I'm a **tech enthusiast** with an insatiable curiosity for everything tech. I do
 <div>
 <a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/dbunker-007/dbunker-007/refs/heads/main/badges/blender.svg" alt="Blender" height="36" /></a>
 </div>
-
-
-
-## 📊 GitHub Analytics
-<div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=dbunker-007&theme=dark&hide_border=true&include_all_commits=false&count_private=true&custom_title=Github%20Stats&rank_icon=github&show_icons=true&include_all_commits=true&ring_color=0d74e7" alt="GitHub Stats" />
-  <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=dbunker-007&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbunker-007&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut" alt="Top Languages" />
-</div>
