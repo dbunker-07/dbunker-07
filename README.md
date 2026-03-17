@@ -16,22 +16,22 @@
   
 
 
-## 🧠 About Me
+## About Me
 
 I'm a **tech enthusiast** with an insatiable curiosity for everything tech. I don't believe in limiting myself to one language, framework, or domain - if it's innovative and challenging, I'm diving deep into it.
 
 **Learn. Build. Experiment. Repeat.**
 
-### 🎯 What Drives Me
-- 🔬 **R&D Mindset**: Always experimenting with cutting-edge technologies
-- 🌐 **Full-Stack & Beyond**: From mastering frontend to backend eager to explore beyond
-- 🧪 **Continuous Learning**: Always ready for new technology to explore and develope on
-- 🚀 **Innovation First**: Building solutions that push boundaries
-- 🎨 **Art Meets Code**: Blending creativity with technical excellence
+### What Drives Me
+- **R&D Mindset**: Always experimenting with cutting-edge technologies
+- **Full-Stack & Beyond**: From mastering frontend to backend eager to explore beyond
+- **Continuous Learning**: Always ready for new technology to explore and develope on
+- **Innovation First**: Building solutions that push boundaries
+- **Art Meets Code**: Blending creativity with technical excellence
 
 
 
-## 🛠️ Language and Tools
+## Language and Tools
 
 > *Current stack is just the beginning......*
 ### - Frontend  
